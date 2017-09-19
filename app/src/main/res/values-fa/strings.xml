@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"     tools:ignore="MissingTranslation" >
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">مخفی کردن اعلان پس‌زمینه</string>
     <string name="notification_content_singular">در پس‌زمینه درحال اجرا شدن است</string>
     <string name="notification_content_plural">برنامه در پس‌زمینه درحال اجرا شدن هستند</string>
+    <string name="permission_granted">اعطا شده</string>
+    <string name="permission_not_granted">اعطا نشده</string>
+    <string name="permission_request_description">برای خلاص شدن از اعلان \"برنامه‌ها در پس‌زمینه درحال اجرا شدن هستند\" باید به این برنامه دسترسی خواندن اعلان‌ها را بدهید.\n برای این کار باید در صفحه بعدی آیکن برنامه را پیدا کرده و دسترسی آن را فعال کنید.</string>
+    <string name="ok">باشه</string>
+    <string name="yes">بلی</string>
+    <string name="no">خیر</string>
+    <string name="hide_icon_dialog_title">توجه</string>
+    <string name="hide_icon_dialog_msg">برای دسترسی مجدد به این برنامه باید ابتدا آن را حذف و دوباره نصب کنید!</string>
+    <string name="permission">مجوز</string>
+    <string name="notifications_access">دسترسی به اعلان‌ها</string>
+    <string name="settings">تنظیمات</string>
+    <string name="hide_app_icon_from_launcher">مخفی کردن آیکن برنامه در راه‌انداز</string>
 </resources>

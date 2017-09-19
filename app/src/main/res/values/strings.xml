@@ -10,4 +10,8 @@
     <string name="no">No</string>
     <string name="hide_icon_dialog_title">Attention</string>
     <string name="hide_icon_dialog_msg">You have to uninstall and install this app again to open it</string>
+    <string name="permission">Permission</string>
+    <string name="notifications_access">Notifications Access</string>
+    <string name="settings">Settings</string>
+    <string name="hide_app_icon_from_launcher">Hide app icon from launcher</string>
 </resources>

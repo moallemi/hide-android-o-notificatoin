@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-    <PreferenceCategory android:title="Permission">
+    <PreferenceCategory android:title="@string/permission">
         <SwitchPreference
             android:key="notification_permission"
-            android:title="Notification Access"/>
+            android:title="@string/notifications_access"/>
     </PreferenceCategory>
-    <PreferenceCategory android:title="Settings">
+    <PreferenceCategory android:title="@string/settings">
         <SwitchPreference
             android:checked="true"
             android:key="hide_launcher_icon"
-            android:title="Hide app icon from launcher"/>
+            android:title="@string/hide_app_icon_from_launcher"/>
     </PreferenceCategory>
 </PreferenceScreen>
