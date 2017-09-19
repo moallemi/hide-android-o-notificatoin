@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Hide Background Notification</string>
+    <string name="notification_content_singular">is running in the background</string>
+    <string name="notification_content_plural">apps are running in the background</string>
+    <string name="permission_granted">Granted</string>
+    <string name="permission_not_granted">Not Granted</string>
+    <string name="permission_request_description">To get rid of the \"running in the background\" Notification, you have to allow this app to access your notifications.\nIn the next screen, switch the permission for this app ON and then press \"Allow\"</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="hide_icon_dialog_title">Attention</string>
+    <string name="hide_icon_dialog_msg">You have to uninstall and install this app again to open it</string>
 </resources>
